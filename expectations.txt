@@ -2,3 +2,11 @@ Kristan Louie Escarilla
 2023-65898
 CMSC 100 - U-3L
 Exercise 01: GIT
+Submitted on February 5, 2025 
+
+My expectations for this course laboratory revolves around
+the hows of web programming and its application. Though there's a possibility
+of the concepts being overwhelming I'm sure I'll enjoy absorbing the new
+knowledge since this is what I am interested in with the study of computer science.
+By the end of the course I expect that I am fully capable of creating my own web pages
+and personal projects related to what is to be taught here.
